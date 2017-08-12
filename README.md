@@ -20,3 +20,7 @@ The output consists of a copy of the input project video with bounding boxes dra
 ```
  $ python main.py
 ```
+#### Optional
+```
+ $ source deactivate carnd-term1
+```
